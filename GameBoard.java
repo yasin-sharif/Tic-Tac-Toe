@@ -1,5 +1,3 @@
-package b;
-
 import java.awt.Color;
 import java.awt.*;
 import java.awt.event.*;
@@ -12,11 +10,6 @@ import java.util.*;
  * CREATOR: Yasin Sharif
  * VERSION: 2.0
  * PACKAGE: b 
- * DATE CREATED: 10.07.2022 
- * DATE FINISHED: ? 
- * ---------
- * NEW FEATURES:
- * winner and draw identifier
  * */
 
 @SuppressWarnings("serial")
